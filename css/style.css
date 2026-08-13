@@ -523,6 +523,11 @@ header ul li a.active{
     object-position: center;
     transition: all ease 0.6s;
   }
+
+  .project-box-img img.project-image-contain {
+    object-fit: contain;
+    background-color: #ffffff;
+  }
   .project-box-text-container {
     display: grid;
     grid-template-columns: 1fr 50px;
