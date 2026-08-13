@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "project": {
+    "name": "Portifolio",
+    "productType": null,
+    "stack": []
+  },
+  "sources": {
+    "tokens": [],
+    "components": [],
+    "assets": [
+      "assets"
+    ],
+    "instructions": []
+  },
+  "design": {
+    "colorMode": "unknown",
+    "colors": {},
+    "typography": {},
+    "spacing": {},
+    "radius": {},
+    "shadows": {},
+    "motion": {},
+    "density": "unknown"
+  },
+  "components": {
+    "installed": [],
+    "preferredPrimitives": [],
+    "patterns": []
+  },
+  "constraints": {
+    "must": [],
+    "avoid": []
+  },
+  "decisions": [
+    "Preservar a identidade escura do portfólio, usando verde suave como destaque e tipografia editorial.",
+    "Substituir percentuais subjetivos de habilidades por grupos de tecnologias comprovados nos projetos.",
+    "Priorizar projetos recentes em cards tipográficos, com stack, contexto e links verificáveis."
+  ],
+  "evidence": [],
+  "generatedAt": "2026-08-13T21:16:46.832Z"
+}
