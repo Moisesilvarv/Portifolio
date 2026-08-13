@@ -369,6 +369,10 @@ header ul li a.active{
     color: var(--text-color);
     font-weight: 500;
 }
+.skill-box-content-wide-icon{
+    grid-template-columns: 40px 1fr;
+    grid-gap: 12px;
+}
 .skill-box-percentage{
     position: absolute;
     right: 10px;
